@@ -19,7 +19,7 @@
 
 
 
-![Alt Text](bird of twitter.gif)
+![Alt Text](https://github.com/ShrastiPachauri/ShrastiPachauri/blob/main/bird%20of%20twitter.gif)
 
 
 
