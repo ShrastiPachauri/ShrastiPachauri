@@ -14,6 +14,19 @@
 
 - 📫 How to reach me **www.linkedin.com/in/shrasti-pachauri-b823a0191**
 
+
+
+
+
+
+![Alt Text](https://giphy.com/search/emoji-stickers)
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shrasti-pachauri-b823a0191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shrasti-pachauri-b823a0191" height="30" width="40" /></a>
