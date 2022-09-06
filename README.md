@@ -2,7 +2,6 @@
 
 
 <h1 align="center"> <h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Shrasti Pachauri</h1>
-<h3 align="center">A passionate IT student eager to learn new technologies and enhancing myself day by day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrastipachauri&label=Profile%20views&color=0e75b6&style=flat" alt="shrastipachauri" /> </p>
 
