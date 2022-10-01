@@ -35,6 +35,6 @@ JAVA <img width ='70px' src ='https://user-images.githubusercontent.com/77975418
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrastipachauri&show_icons=true&locale=en&layout=compact" alt="shrastipachauri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrastipachauri&show_icons=true&locale=en" alt="shrastipachauri" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrastipachauri&show_icons=true&locale=en" alt="shrastipachauri" /></p>>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrastipachauri&" alt="shrastipachauri" /></p>
