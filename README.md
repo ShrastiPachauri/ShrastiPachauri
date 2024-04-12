@@ -10,7 +10,7 @@
 C++ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
 JAVA <img width ='70px' src ='https://user-images.githubusercontent.com/77975418/135342048-728293fd-46fc-4238-821d-9084a316fadb.png'> </a>  
 
-- 📫 How to reach me **www.linkedin.com/in/shrasti-pachauri-b823a0191**
+- 📫 How to reach me **https://www.linkedin.com/in/shrasti-pachauri666/**
 
 
 
@@ -27,7 +27,7 @@ JAVA <img width ='70px' src ='https://user-images.githubusercontent.com/77975418
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shrasti-pachauri-b823a0191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shrasti-pachauri-b823a0191" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shrasti-pachauri666/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shrasti-pachauri-b823a0191" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
