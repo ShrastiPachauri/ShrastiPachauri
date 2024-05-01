@@ -15,9 +15,9 @@
 
  ### ORM Tools:
 <p align="left">
-  <img src="https://sequelize.org/master/image/cover.png" alt="Sequelize" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40" />
-  <img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" />
+<img src="https://sequelize.org/master/image/cover.png" alt="Sequelize" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40" />
+<img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" />
 </p>
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrasti-pachauri666/)
