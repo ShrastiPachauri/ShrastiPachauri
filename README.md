@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" width="50px"><img src="https://github-profile-trophy.vercel.app/?username=shrastipachauri" alt="shrastipachauri" /></a> </p>
 
-![Tech I am working with]
-
 ### Tech I am working with:
 - C++ <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
 - Java <img width='70px' src='https://user-images.githubusercontent.com/77975418/135342048-728293fd-46fc-4238-821d-9084a316fadb.png'>
