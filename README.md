@@ -12,14 +12,6 @@
 - Spring Core <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
 - Spring Boot <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
 
-
- ### ORM Tools:
-<p align="left">
-<img src="https://sequelize.org/master/image/cover.png" alt="Sequelize" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40" />
-<img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" />
-</p>
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrasti-pachauri666/)
 
 ![Alt Text](https://github.com/ShrastiPachauri/ShrastiPachauri/blob/main/bird%20of%20twitter.gif)
@@ -37,5 +29,4 @@
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/trello-1.svg" alt="Trello" width="40" height="40" />
 </p>
