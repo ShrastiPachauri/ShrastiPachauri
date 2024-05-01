@@ -15,9 +15,9 @@
 
  ### ORM Tools:
 <p align="left">
-<img src="[https://sequelize.org/master/image/cover.png](https://sequelize.org/master/image/cover.png)" alt="Sequelize" width="40" height="40" />
+<img src="https://sequelize.org/master/image/cover.png" alt="Sequelize" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40" />
-<img src="[https://www.prisma.io/images/prisma-logo.svg](https://www.prisma.io/images/prisma-logo.svg)" alt="Prisma" width="40" height="40" />
+<img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" />
 </p>
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrasti-pachauri666/)
@@ -29,13 +29,13 @@
   <a href="https://www.linkedin.com/in/shrasti-pachauri666/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shrasti-pachauri-b823a0191" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+### Languages:
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" alt="Slack" width="40" height="40" />
-  <img src="[https://www.vectorlogo.zone/logos/jira/jira-icon.svg](https://cdn.worldvectorlogo.com/logos/jira-1.svg)" alt="Jira" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" />
-  <img src="[https://cdn.worldvectorlogo.com/logos/trello-1.svg](https://cdn.worldvectorlogo.com/logos/trello-1.svg)" alt="Trello" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/trello-1.svg" alt="Trello" width="40" height="40" />
 </p>
