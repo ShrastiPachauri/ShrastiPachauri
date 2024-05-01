@@ -12,6 +12,14 @@
 - Spring Core <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
 - Spring Boot <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
 
+
+ ### ORM Tools:
+<p align="left">
+  <img src="https://sequelize.org/master/image/cover.png" alt="Sequelize" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40" />
+  <img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" />
+</p>
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrasti-pachauri666/)
 
 ![Alt Text](https://github.com/ShrastiPachauri/ShrastiPachauri/blob/main/bird%20of%20twitter.gif)
@@ -23,10 +31,11 @@
 
 ### Languages and Tools:
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://user-images.githubusercontent.com/77975418/135342048-728293fd-46fc-4238-821d-9084a316fadb.png" width="60" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" alt="Slack" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/trello-1.svg" alt="Trello" width="40" height="40" />
 </p>
