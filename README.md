@@ -1,4 +1,4 @@
-![Header](https://www.canva.com/design/DAEa46Dbosg/gvjBxMpQ2Q3Zo7shz6rnIg/view?utm_content=DAEa46Dbosg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<img src ="(https://www.canva.com/design/DAEa46Dbosg/gvjBxMpQ2Q3Zo7shz6rnIg/view?utm_content=DAEa46Dbosg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <h1 align="center">Hello Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I'm Shrasti Pachauri</h1>
 
