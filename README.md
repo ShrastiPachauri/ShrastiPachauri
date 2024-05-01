@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrastipachauri&label=Profile%20views&color=0e75b6&style=flat" alt="shrastipachauri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrastipachauri" alt="shrastipachauri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" width="50px"><img src="https://github-profile-trophy.vercel.app/?username=shrastipachauri" alt="shrastipachauri" /></a> </p>
 
 ![Tech I am working with](https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif)
 
