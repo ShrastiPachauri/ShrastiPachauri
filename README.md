@@ -10,7 +10,6 @@
 - JavaScript <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 - TypeScript <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 - Spring Core <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
-- Spring Boot <img width='40px' src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'>
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrasti-pachauri666/)
 
